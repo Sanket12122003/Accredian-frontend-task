@@ -14,10 +14,7 @@ Make sure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
 ### Installation
-# Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/accredian-frontend-task.git
  # Change to the project directory:
 
 cd accredian-frontend-task
@@ -42,7 +39,7 @@ The optimized build will be available in the build directory.
 # Deployment
 The project is automatically deployed on Vercel. Any changes pushed to the main branch will trigger a new deployment.
 
-Visit the deployed app: 
+Visit the deployed app: https://accredian-frontend-task-seven.vercel.app/
 
 # Features
 Login: Provides the ability for users to log in.
